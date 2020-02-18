@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=data
+comment0.target=void\ onInput(int[])
+comment0.text=\r\n\ Method\ onInput\r\n\r\n\ @param\ data\ int\ range\ of\ data\ (Mouse\ values)\r\n
+numComments=1

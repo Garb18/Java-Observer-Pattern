@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=InputCapture
+comment0.target=void\ Initialise(Framework.Interfaces.IInput)
+comment0.text=\r\n\ An\ example\ of\ a\ method\ header\ -\ replace\ this\ comment\ with\ your\ own\r\n
+comment1.params=L
+comment1.target=void\ subscribe(IInputListener)
+comment2.params=L
+comment2.target=void\ unsubscribe(IInputListener)
+numComments=3

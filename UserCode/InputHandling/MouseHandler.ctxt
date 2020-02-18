@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MouseHandler()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ InputHandling\r\n
+comment1.params=InputCapture
+comment1.target=void\ Initialise(Framework.Interfaces.IInput)
+comment2.params=L
+comment2.target=void\ subscribe(IInputListener)
+comment3.params=L
+comment3.target=void\ unsubscribe(IInputListener)
+comment4.params=
+comment4.target=void\ update()
+numComments=5

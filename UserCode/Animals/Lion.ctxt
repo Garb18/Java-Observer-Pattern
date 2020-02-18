@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Lion()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Lion\r\n
+comment1.params=world\ xPosn\ yPosn\ zPosn\ xOrientation\ yOrientation\ zOrientation
+comment1.target=void\ spawn(Framework.Interfaces.IWorld,\ double,\ double,\ double,\ double,\ double,\ double)
+comment1.text=\r\n\ METHOD\:\ spawn\ the\ Lion\ at\ the\ given\ position/orientation\r\n\ @param\ world\ IWorld\ representing\ the\ 3D\ world.\r\n\ @param\ Positionn\ double\ giving\ the\ position\ coordinates\ (x,y,z).\r\n\ @param\ yPosn\ double\ giving\ the\ position\ along\ y\ axis.\r\n\ @param\ zPosn\ double\ giving\ position\ along\ z\ axis.\r\n\ @param\ xOrientation\ double\ giving\ the\ orientation\ about\ x\ axis.\r\n\ @param\ yOrientation\ double\ giving\ the\ orientation\ about\ y\ axis.\r\n\ @param\ zOrientation\ double\ giving\ orientation\ about\ z\ axis.\r\n
+comment2.params=
+comment2.target=void\ update()
+comment2.text=\r\n\ METHOD\:\ change\ to\ Lion\ for\ next\ frame\r\n
+numComments=3

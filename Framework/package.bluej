@@ -1,0 +1,23 @@
+#BlueJ package file
+objectbench.height=100
+objectbench.width=629
+package.editor.height=289
+package.editor.width=531
+package.editor.x=66
+package.editor.y=164
+package.numDependencies=0
+package.numTargets=2
+package.showExtends=true
+package.showUses=true
+target1.height=62
+target1.name=Interfaces
+target1.type=PackageTarget
+target1.width=80
+target1.x=170
+target1.y=10
+target2.height=62
+target2.name=Implementations
+target2.type=PackageTarget
+target2.width=120
+target2.x=260
+target2.y=10

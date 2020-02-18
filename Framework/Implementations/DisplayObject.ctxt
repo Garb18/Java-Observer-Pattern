@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=model\ tex\ scale
+comment0.target=DisplayObject(java.lang.String,\ java.lang.String,\ double)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ DisplayObject\r\n
+comment1.params=xTranslation\ yTranslation\ zTranslation
+comment1.target=void\ translate(double,\ double,\ double)
+comment1.text=\r\n\ METHOD\:\ translate\ the\ IDisplayObject\ along\ x,y,z\ axes\r\n\ @param\ xTranslation\ double\ giving\ the\ change\ in\ position\ along\ x\ axis.\r\n\ @param\ yTranslation\ double\ giving\ the\ change\ in\ position\ along\ y\ axis.\r\n\ @param\ zTranslation\ double\ giving\ the\ change\ in\ position\ along\ z\ axis.\r\n
+comment2.params=xRotation\ yRotation\ zRotation
+comment2.target=void\ rotate(double,\ double,\ double)
+comment2.text=\r\n\ METHOD\:\ rotate\ the\ IDisplayObject\ about\ x,y,z\ axes\r\n\ @param\ xRotation\ double\ giving\ the\ change\ in\ orientation\ about\ x\ axis.\r\n\ @param\ yRotation\ double\ giving\ the\ change\ in\ orientation\ about\ y\ axis.\r\n\ @param\ zRotation\ double\ giving\ the\ change\ in\ orientation\ about\ z\ axis.\r\n
+numComments=3

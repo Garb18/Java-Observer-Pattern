@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=world\ xPosn\ yPosn\ zPosn\ xOrientation\ yOrientation\ zOrientation
+comment0.target=void\ spawn(Framework.Interfaces.IWorld,\ double,\ double,\ double,\ double,\ double,\ double)
+comment0.text=\r\n\ METHOD\:\ spawn\ the\ ISpawnable\ at\ the\ given\ position/orientation\r\n\ @param\ world\ IWorld\ representing\ the\ 3D\ world.\r\n\ @param\ xPosn\ double\ giving\ the\ position\ along\ x\ axis.\r\n\ @param\ yPosn\ double\ giving\ the\ position\ along\ y\ axis.\r\n\ @param\ zPosn\ double\ giving\ position\ along\ z\ axis.\r\n\ @param\ xOrientation\ double\ giving\ the\ orientation\ about\ x\ axis.\r\n\ @param\ yOrientation\ double\ giving\ the\ orientation\ about\ y\ axis.\r\n\ @param\ zOrientation\ double\ giving\ orientation\ about\ z\ axis.\r\n
+numComments=1
